@@ -1,5 +1,0 @@
-#import <Foundation/Foundation.h>
-@interface PodsDummy_Pods_ToDoListApp_ToDoListAppTests : NSObject
-@end
-@implementation PodsDummy_Pods_ToDoListApp_ToDoListAppTests
-@end
